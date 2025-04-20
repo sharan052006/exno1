@@ -21,17 +21,18 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-![alt text](<Screenshot 2025-04-20 194022.png>)
- ![alt text](<Screenshot 2025-04-20 193402.png>) 
- ![alt text](<Screenshot 2025-04-20 193420.png>) 
- ![alt text](<Screenshot 2025-04-20 193431.png>) 
- ![alt text](<Screenshot 2025-04-20 193615.png>) 
- ![alt text](<Screenshot 2025-04-20 193628.png>) 
- ![alt text](<Screenshot 2025-04-20 193651.png>) 
- ![alt text](<Screenshot 2025-04-20 193724.png>) 
- ![alt text](<Screenshot 2025-04-20 193821.png>) 
- ![alt text](<Screenshot 2025-04-20 193835.png>) 
- ![alt text](<Screenshot 2025-04-20 193845.png>) 
- ![alt text](<Screenshot 2025-04-20 193941.png>)
+![alt text](<Screenshot 2025-04-20 193402-1.png>)
+![alt text](<Screenshot 2025-04-20 193420-1.png>)
+![alt text](<Screenshot 2025-04-20 193431-2.png>)
+![alt text](<Screenshot 2025-04-20 193615-1.png>)
+![alt text](<Screenshot 2025-04-20 193628-1.png>)
+![alt text](<Screenshot 2025-04-20 193651-1.png>)
+![alt text](<Screenshot 2025-04-20 193724-1.png>)
+![alt text](<Screenshot 2025-04-20 193821-1.png>)
+![alt text](<Screenshot 2025-04-20 193835-1.png>)
+![alt text](<Screenshot 2025-04-20 193845-1.png>)
+![alt text](<Screenshot 2025-04-20 193941-1.png>)
+![alt text](<Screenshot 2025-04-20 194022-1.png>)
+
 # Result    
           <<include your Result here>>
