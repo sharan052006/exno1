@@ -21,6 +21,17 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-this is a sample commit
+![alt text](<Screenshot 2025-04-20 194022.png>)
+ ![alt text](<Screenshot 2025-04-20 193402.png>) 
+ ![alt text](<Screenshot 2025-04-20 193420.png>) 
+ ![alt text](<Screenshot 2025-04-20 193431.png>) 
+ ![alt text](<Screenshot 2025-04-20 193615.png>) 
+ ![alt text](<Screenshot 2025-04-20 193628.png>) 
+ ![alt text](<Screenshot 2025-04-20 193651.png>) 
+ ![alt text](<Screenshot 2025-04-20 193724.png>) 
+ ![alt text](<Screenshot 2025-04-20 193821.png>) 
+ ![alt text](<Screenshot 2025-04-20 193835.png>) 
+ ![alt text](<Screenshot 2025-04-20 193845.png>) 
+ ![alt text](<Screenshot 2025-04-20 193941.png>)
 # Result    
           <<include your Result here>>
